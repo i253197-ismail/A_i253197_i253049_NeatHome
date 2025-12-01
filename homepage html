@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Background Color Example</title>
+  <style>
+    body {
+      background-color: #EDF4F1;
+    }
+  </style>
+</head>
+<body>
+</body>
+</html>
